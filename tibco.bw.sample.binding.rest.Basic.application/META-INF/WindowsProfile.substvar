@@ -8,7 +8,7 @@
 			<serviceSettable>false</serviceSettable>
 			<type>String</type>
 			<isOverride>false</isOverride>
-			<modTime>1412076835849</modTime>
+			<modTime>1444718463383</modTime>
 		</globalVariable>
 		<globalVariable>
 			<name>//tibco.bw.sample.binding.rest.Basic//BW.DOMAIN.NAME</name>
@@ -17,7 +17,7 @@
 			<serviceSettable>false</serviceSettable>
 			<type>String</type>
 			<isOverride>false</isOverride>
-			<modTime>1412076835849</modTime>
+			<modTime>1444718463383</modTime>
 		</globalVariable>
 		<globalVariable>
 			<name>//tibco.bw.sample.binding.rest.Basic//BW.HOST.NAME</name>
@@ -26,7 +26,7 @@
 			<serviceSettable>false</serviceSettable>
 			<type>String</type>
 			<isOverride>false</isOverride>
-			<modTime>1412076835849</modTime>
+			<modTime>1444718463383</modTime>
 		</globalVariable>
 		<globalVariable>
 			<name>//tibco.bw.sample.binding.rest.Basic//BW.MODULE.VERSION</name>
@@ -35,7 +35,7 @@
 			<serviceSettable>false</serviceSettable>
 			<type>String</type>
 			<isOverride>false</isOverride>
-			<modTime>1412076835849</modTime>
+			<modTime>1444718463383</modTime>
 		</globalVariable>
 		<globalVariable>
 			<name>//tibco.bw.sample.binding.rest.Basic//BW.DEPLOYMENTUNIT.NAME</name>
@@ -44,7 +44,7 @@
 			<serviceSettable>false</serviceSettable>
 			<type>String</type>
 			<isOverride>false</isOverride>
-			<modTime>1412076835849</modTime>
+			<modTime>1444718463383</modTime>
 		</globalVariable>
 		<globalVariable>
 			<name>//tibco.bw.sample.binding.rest.Basic//BW.DEPLOYMENTUNIT.VERSION</name>
@@ -53,7 +53,7 @@
 			<serviceSettable>false</serviceSettable>
 			<type>String</type>
 			<isOverride>false</isOverride>
-			<modTime>1412076835849</modTime>
+			<modTime>1444718463383</modTime>
 		</globalVariable>
 		<globalVariable>
 			<name>//tibco.bw.sample.binding.rest.Basic//BW.APPSPACE.NAME</name>
@@ -62,7 +62,7 @@
 			<serviceSettable>false</serviceSettable>
 			<type>String</type>
 			<isOverride>false</isOverride>
-			<modTime>1412076835849</modTime>
+			<modTime>1444718463383</modTime>
 		</globalVariable>
 		<globalVariable>
 			<name>//tibco.bw.sample.binding.rest.Basic//BW.DEPLOYMENTUNIT.TYPE</name>
@@ -71,7 +71,7 @@
 			<serviceSettable>false</serviceSettable>
 			<type>String</type>
 			<isOverride>false</isOverride>
-			<modTime>1412076835849</modTime>
+			<modTime>1444718463383</modTime>
 		</globalVariable>
 		<globalVariable>
 			<name>//tibco.bw.sample.binding.rest.Basic//BW.MODULE.NAME</name>
@@ -80,7 +80,7 @@
 			<serviceSettable>false</serviceSettable>
 			<type>String</type>
 			<isOverride>false</isOverride>
-			<modTime>1412076835849</modTime>
+			<modTime>1444718463383</modTime>
 		</globalVariable>
 		<globalVariable>
 			<name>//tibco.bw.sample.binding.rest.Basic//Output_File</name>
@@ -89,16 +89,16 @@
 			<serviceSettable>false</serviceSettable>
 			<type>String</type>
 			<isOverride>false</isOverride>
-			<modTime>1412076835849</modTime>
+			<modTime>1444718463383</modTime>
 		</globalVariable>
 		<globalVariable>
 			<name>//tibco.bw.sample.binding.rest.Basic//HOST</name>
-			<value>localhost</value>
+			<value>127.0.0.1</value>
 			<deploymentSettable>false</deploymentSettable>
 			<serviceSettable>false</serviceSettable>
 			<type>String</type>
-			<isOverride>false</isOverride>
-			<modTime>1412076835849</modTime>
+			<isOverride>true</isOverride>
+			<modTime>1444718463383</modTime>
 		</globalVariable>
 		<globalVariable>
 			<name>//tibco.bw.sample.binding.rest.Basic//PORT</name>
@@ -107,7 +107,7 @@
 			<serviceSettable>false</serviceSettable>
 			<type>String</type>
 			<isOverride>false</isOverride>
-			<modTime>1412076835849</modTime>
+			<modTime>1444718463383</modTime>
 		</globalVariable>
 		<globalVariable>
 			<name>//tibco.bw.sample.binding.rest.Basic//Output_File_1</name>
@@ -116,7 +116,7 @@
 			<serviceSettable>false</serviceSettable>
 			<type>String</type>
 			<isOverride>false</isOverride>
-			<modTime>1412076835849</modTime>
+			<modTime>1444718463383</modTime>
 		</globalVariable>
 		<globalVariable>
 			<name>//tibco.bw.sample.binding.rest.Basic//Input_File</name>
@@ -125,7 +125,7 @@
 			<serviceSettable>false</serviceSettable>
 			<type>String</type>
 			<isOverride>false</isOverride>
-			<modTime>1412076835849</modTime>
+			<modTime>1444718463383</modTime>
 		</globalVariable>
 	</globalVariables>
 </repository>
